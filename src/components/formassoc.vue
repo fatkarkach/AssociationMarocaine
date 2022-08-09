@@ -1,16 +1,13 @@
 <template>
-  <RouterView/>
+
 </template>
 
 <script>
-
-
 export default {
-  name: `App`,
-
+  name: `formassoc`
 }
 </script>
 
-<style>
+<style scoped>
 
 </style>
